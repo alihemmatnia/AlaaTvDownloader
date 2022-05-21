@@ -9,4 +9,4 @@
 Demo : 
 <br/>
 
-[![Demo ](https://s28.namasha.com/images/preview/7362019030-640x360.jpg)](https://www.namasha.com/v/ffnLM5sa)
+[![Demo ](https://www.kindpng.com/picc/m/292-2922476_red-play-button-png-transparent-png.png)](https://www.namasha.com/v/ffnLM5sa)
