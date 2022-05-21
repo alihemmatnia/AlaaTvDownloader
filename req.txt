@@ -1,0 +1,3 @@
+pip install client
+pip install lxml
+pip install requests
